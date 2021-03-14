@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Problems/Check if an array is sorted ascending/out/
+/Problems/Check if an array is sorted ascending/out/production/classes/
+/Problems/Return empty string when argument is null/out/
+/Problems/Return empty string when argument is null/out/production/classes/
+/Problems/Symmetric matrix/out/
+/Problems/Symmetric matrix/out/production/classes/
+/Problems/The longest ascending sequence/out/
+/Problems/The longest ascending sequence/out/production/classes/
+/Problems/The sum of array elements/out/
+/Problems/The sum of array elements/out/production/classes/
